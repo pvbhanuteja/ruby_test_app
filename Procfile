@@ -1,0 +1,1 @@
+relese: rails db:migrate
